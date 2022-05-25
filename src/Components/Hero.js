@@ -4,8 +4,8 @@ import {  } from "../index.css";
 function Hero() {
   return (
     <div>
-        
-        <div className="bg"></div>
+      <h1>Your Best Solution For Your Home And Office Move.</h1>
+      <div className="bg"></div>
     </div>
   );
 }
