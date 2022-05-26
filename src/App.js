@@ -3,6 +3,8 @@ import Hero from './Components/Hero';
 import Menu from './Components/Menu';
 import "bootstrap/dist/css/bootstrap.css";
 import Intro from './Components/Intro';
+import Quotation from './Components/Quotation';
+
 
 
 function App() {
@@ -10,6 +12,7 @@ function App() {
     <div className="App">
       <Menu/>
       <Hero/>
+      <Quotation/>
       <Intro/>
     </div>
   );
